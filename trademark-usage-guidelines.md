@@ -10,6 +10,6 @@ The following guidelines apply to the use of all Storyteller Marks licensed purs
  4. You shall not alter the appearance of any Storyteller Mark or obscure such Mark in any way. Changing the color, font, or proportions of any Storyteller Mark is prohibited.
  5. Questions concerning proper use of the Storyteller Marks shall be directed to [Trademark@StorytellerHQ.com][3].
 
-[1]: /terms-of-service
-[2]: /glossary
+[1]: http://www.storytellerhq.com/terms-of-service
+[2]: http://www.storytellerhq.com/glossary
 [3]: mailto:trademark@storytellerhq.com

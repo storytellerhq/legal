@@ -53,7 +53,7 @@ The content and data on the Internet that is accessible via an API is referred t
 Often times, the use of a Resource’s API is governed by terms and conditions agreed to by the party using the API.
 
 
-[1]: /terms-of-service
-[2]: /privacy-policy
-[3]: /acceptable-use-policy
-[4]: /trademark-usage-guidelines
+[1]: http://www.storytellerhq.com/terms-of-service
+[2]: http://www.storytellerhq.com/privacy-policy
+[3]: http://www.storytellerhq.com/acceptable-use-policy
+[4]: http://www.storytellerhq.com/trademark-usage-guidelines

@@ -54,5 +54,5 @@ In addition to (and/or as some examples of) the violations described in the Term
 
 This document is an adaptation of Strobe’s Acceptable Use Policy, which is an adaptation of Heroku’s Acceptable Use Policy, which is an adaptation of the Google App Engine Program Policies. The original work has been modified. Google, Inc. is not connected with and does not sponsor or endorse Company or its use of the work.
 
- [1]: /terms-of-service
- [2]: /glossary
+[1]: http://www.storytellerhq.com/terms-of-service
+[2]: http://www.storytellerhq.com/glossary
