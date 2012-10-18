@@ -101,6 +101,6 @@ Company reserves the right to change this Privacy Policy. Company will provide n
 Questions regarding this Privacy Statement or the information practices of the Company’s website and Services should be directed to [privacy@StorytellerHQ.com][3] or by mailing Sparkart Group, Inc., Attention: Storyteller Privacy, 2201 Broadway, Suite 100, Oakland, CA 94612.
 
 
-[1]: http://www.storytellerhq.com/terms-of-service
-[2]: http://www.storytellerhq.com/glossary
+[1]: http://www.storytellerhq.com/legal/terms-of-service
+[2]: http://www.storytellerhq.com/legal/glossary
 [3]: mailto:privacy@storytellerhq.com

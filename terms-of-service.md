@@ -135,9 +135,9 @@ Please note that the [Glossary][1] will be particularly helpful as you read this
  - This document is an adaptation of the Google App Engine Terms of Service, as modified by Heroku and its Terms of Service, as modified by Strobe and its Terms of Service. The original work has been modified. Google, Inc. is not connected with and does not sponsor or endorse Company or its use of the work.
 
 
-[1]: http://www.storytellerhq.com/glossary
-[2]: http://www.storytellerhq.com/acceptable-use-policy
-[3]: http://www.storytellerhq.com/privacy-policy
-[4]: http://www.storytellerhq.com/trademarks
-[5]: http://www.storytellerhq.com/trademark-usage-guidelines
-[6]: http://www.storytellerhq.com/dmca-notice
+[1]: http://www.storytellerhq.com/legal/glossary
+[2]: http://www.storytellerhq.com/legal/acceptable-use-policy
+[3]: http://www.storytellerhq.com/legal/privacy-policy
+[4]: http://www.storytellerhq.com/legal/trademarks
+[5]: http://www.storytellerhq.com/legal/trademark-usage-guidelines
+[6]: http://www.storytellerhq.com/legal/dmca-notice
